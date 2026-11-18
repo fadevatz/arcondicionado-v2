@@ -6,3 +6,6 @@ Desktop.ini
 
 # Logs
 *.log
+
+# Editor
+.vscode/
